@@ -64,8 +64,11 @@ input.textInput::-webkit-input-placeholder {
   text-align: right;
 }
 
-li{
+li {
     list-style-type: none;
+    font-family: "Playfair Display";
+    letter-spacing: 5px;
+    margin-bottom: 5px;
 }
 
 li>button{
